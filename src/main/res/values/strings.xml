@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Sun Sign Calculator</string>
+
+    <string-array name="signs">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+    <string name="Sign1">
+        \n
+        Element: Fire\n
+        Polarity: Positive\n
+        Quality: Cardinal\n
+        Planet: Mars\n
+        House: First\n
+        Color: Red\n
+        Gem: Diamond\n
+        Flower: Thistle\n
+        Love: Sagittarius
+    </string>
+
+    <string name="Sign2">
+        \n
+        Element: Earth\n
+        Polarity: Negative\n
+        Quality: Fixed\n
+        Planet: Venus\n
+        House: Second\n
+        Color: Pink\n
+        Gem: Emerald\n
+        Flower: Poppy\n
+        Love: Cancer, Virgo\n
+    </string>
+
+    <string name="Sign3">
+        \n
+        Element: Air\n
+        Polarity: Positive\n
+        Quality: Mutable\n
+        Planet: Mercury\n
+        House: Third\n
+        Color: Yellow\n
+        Gem: Emerald\n
+        Flower: Lavender\n
+        Love: Aries, Leo\n
+    </string>
+    <string name="Sign4">
+        \n
+        Element: Water\n
+        Polarity: Negative\n
+        Quality: Cardinal\n
+        Planet: Moon\n
+        House: Fourth\n
+        Color: Violet\n
+        Gem: Ruby\n
+        Flower: Orchid\n
+        Love : Taurus, Pisces\n
+        </string>
+    <string name="Sign5">
+        \n
+        Element: Fire\n
+        Polarity: Positive\n
+        Quality: Fixed\n
+        Planet: Sun\n
+        House: Fifth\n
+        Color: Gold\n
+        Gem: Carnelian\n
+        Flower:Marigold\n
+        Love: Libra\n
+    </string>
+    <string name="Sign6">
+        \n
+        Element: Earth\n
+        Polarity: Negative\n
+        Quality: Mutable\n
+        Planet: Mercury\n
+        House: Sixth\n
+        Color: Silver\n
+        Gem: Peridot\n
+        Flower: Sunflower\n
+        Love: Cancer\n
+    </string>
+    <string name="Sign7">
+        \n
+        Element: Air\n
+        Polarity: Positive\n
+        Quality: Cardinal\n
+        Planet: Venus\n
+        House: Seventh\n
+        Color: Blue\n
+        Gem: Sapphire\n
+        Flower: Rose\n
+        Love: Gemini\n
+    </string>
+    <string name="Sign8">
+        \n
+        Element: Water\n
+        Polarity: Negative\n
+        Quality: Fixed\n
+        Planet: Pluto, Mars\n
+        House: Eighth\n
+        Color: Black\n
+        Gem: Topaz\n
+        Flower: Hibiscus\n
+        Love: Cancer, Pisces\n
+    </string>
+    <string name="Sign9">
+        \n
+        Element: Fire\n
+        Polarity: Positive\n
+        Quality: Mutable\n
+        Planet: Jupiter\n
+        House: Ninth\n
+        Color: Light Blue\n
+        Gem: Topaz\n
+        Flower: Carnation\n
+        Love : Aries\n
+    </string>
+    <string name="Sign10">
+        \n
+        Element: Earth\n
+        Polarity: Negative\n
+        Quality: Cardinal\n
+        Planet: Saturn\n
+        House: Tenth\n
+        Color: Dark Blue\n
+        Gem: Lapis Lazuli\n
+        Flower: Pansy\n
+        Love: Virgo\n
+    </string>
+    <string name="Sign11">
+        \n
+        Element: Air\n
+        Polarity: Positive\n
+        Quality: Fixed\n
+        Planet: Uranus\n
+        House: Eleventh\n
+        Color: Sky Blue\n
+        Gem: Amethyst\n
+        Flower: Orchid\n
+        Love: Sagittarius\n
+        </string>
+    <string name="Sign12">
+        \n
+        Element: Water\n
+        Polarity: Negative\n
+        Quality: Mutable\n
+        Planet: Neptune\n
+        House: Twelfth\n
+        Color: Sea Green\n
+        Gem: Moonstone\n
+        Flower: Waterlily\n
+        Love : Scorpio\n
+    </string>
+
+    <string name="hint">
+        Add a person and their info to the database!
+    </string>
+
+</resources>
